@@ -12,7 +12,7 @@ namespace MyApplication
             Console.WriteLine(bookObj.getPageNumber());
 
             // Change Book Class - Page Number Variable
-            bookObj.setPageNumber(50);
+            bookObj.setPageNumber(100);
             Console.WriteLine(bookObj.getPageNumber());
         }
     }
