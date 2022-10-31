@@ -12,5 +12,5 @@ Fields can be made read-only (if you only use the get method), or write-only (if
 Flexible: the programmer can change one part of the code without affecting other parts
 Increased security of data
 
-[Developer Link] (https://www.kemalsaybakan.com/)
+[Developer Link](https://www.kemalsaybakan.com/)
 
